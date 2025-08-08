@@ -66,12 +66,18 @@ I'm a passionate software developer who believes code should be elegant, useful,
 ## 📦 Other Knowledge
 
 🎬 Video Editing
+
 ✨ Motion Graphics
 🖋️ Logo Design
+
 🖥️ UI/UX Design
+
 🎨 Graphic Design (Adobe Certified)
+
 🧊 3D Modeling (Characters & Interior Design)
+
 🎞️ Visual Storytelling
+
 🧰 Multimedia Design & Content Creation
 
 ---
