@@ -68,6 +68,7 @@ I'm a passionate software developer who believes code should be elegant, useful,
 🎬 Video Editing
 
 ✨ Motion Graphics
+
 🖋️ Logo Design
 
 🖥️ UI/UX Design
