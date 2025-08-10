@@ -9,10 +9,17 @@
 
 ## ⚡ Who I Am
 
-I'm a passionate software developer who believes code should be elegant, useful, and scalable. I build digital solutions that solve real problems.
-
-**I love:** clean architecture, backend optimization, modern UI, and open source collaboration.
-
+```bash
+> run erick_lima --about
+[Initializing...]
+Name: Erick Lima Hardeman🚀
+Age: 21
+Location: Brazil
+Languages: 🇧🇷 Portuguese (native), 🇺🇸 English (advanced)
+Passion: Creating impactful digital solutions
+Philosophy: "Consistency over intensity. Every day matters."
+[Process finished in 0.002s]
+```
 ---
 
 ## 🧠 Knowledge Map
