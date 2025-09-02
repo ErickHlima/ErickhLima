@@ -27,7 +27,7 @@ Philosophy: "Consistency over intensity. Every day matters."
 ### 🖥️ Programming Languages
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,java,python,html,css,javascript" />
+  <img src="https://skills.syvixor.com/api/icons?i=c,java,python" />
 </p>
 
 ### ⚙️ Frameworks & Tools
