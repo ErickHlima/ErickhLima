@@ -92,7 +92,7 @@ Philosophy: "Consistency over intensity. Every day matters."
 
 ## 📂 Featured Projects
 
-- [🧠 AgroHelper](https://github.com/ErickHlima/manga-scraper-playwright) – Smart assistant
+- [🧠 Manga Scraper](https://github.com/ErickHlima/manga-scraper-playwright) – Smart assistant
   
 ---
 
