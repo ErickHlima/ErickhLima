@@ -100,6 +100,7 @@ Philosophy: "Consistency over intensity. Every day matters."
 ## 📂 Featured Projects
 
 - [🧠 Manga Scraper](https://github.com/ErickHlima/manga-scraper-playwright) – Web scraping tool built with Python and Playwright for automated data extraction
+- [📊 Price Tracker](https://github.com/ErickHlima/Price-Tracker/tree/main) - Desktop app built with Python for real-time product price monitoring and visualization
   
 ---
 
