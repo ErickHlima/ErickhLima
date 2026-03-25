@@ -16,7 +16,7 @@ Name: Erick Lima Hardeman🚀
 Age: 21
 Location: Brazil
 Languages: 🇧🇷 Portuguese (native), 🇺🇸 English (advanced)
-Passion: Creating impactful digital solutions
+Focus: Backend development, algorithms and problem solving
 Philosophy: "Consistency over intensity. Every day matters."
 [Process finished in 0.002s]
 ```
@@ -99,7 +99,7 @@ Philosophy: "Consistency over intensity. Every day matters."
 
 ## 📂 Featured Projects
 
-- [🧠 Manga Scraper](https://github.com/ErickHlima/manga-scraper-playwright) – Smart assistant
+- [🧠 Manga Scraper](https://github.com/ErickHlima/manga-scraper-playwright) – Web scraping tool built with Python and Playwright for automated data extraction
   
 ---
 
