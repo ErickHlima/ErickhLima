@@ -92,10 +92,8 @@ Philosophy: "Consistency over intensity. Every day matters."
 
 ## 📂 Featured Projects
 
-- [🧠 AgroHelper](https://github.com/ErickLima/AgroHelper) – Smart assistant for small farmers and co-ops
-- [📱 Personal Portfolio](https://github.com/ErickLima/portfolio) – Interactive modern portfolio using React + Tailwind
-- [🔐 AuthBoiler](https://github.com/ErickLima/AuthBoiler) – Full-stack starter kit with JWT & RBAC
-
+- [🧠 AgroHelper](https://github.com/ErickHlima/manga-scraper-playwright) – Smart assistant
+  
 ---
 
 ## 📈 GitHub Insights
