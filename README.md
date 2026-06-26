@@ -92,8 +92,8 @@ Philosophy: "Consistency over intensity. Every day matters."
 
 ## 📜 Certifications
 
-- Data Structures & Algorithms – Hubla (2026)  
-  [View Certificate](https://github.com/ErickHlima/certificates/blob/main/estrutura-dados-algoritmos-2026.pdf.pdf)
+- Data Structures & Algorithms – Hubla  /  Statement Of Result - Cambridge 
+  [View Certificate](https://github.com/ErickHlima/certificates)
 
 ---
 
